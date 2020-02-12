@@ -1,4 +1,4 @@
-# Welcome to .NET DC!
+# Welcome to the .NET DC User Group!
 
 ## How To Submit A Proposal for a Talk, Workshop or Event
 * Send a Pull Request modifying [topics.md](https://github.com/dotnetdcmeetup/master/topics.md) -- the file includes a template.
